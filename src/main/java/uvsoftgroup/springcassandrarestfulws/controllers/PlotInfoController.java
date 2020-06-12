@@ -24,7 +24,7 @@ public class PlotInfoController {
 	@Autowired
 	private PlotInfoService plotInfoService;
 	
-	@RequestMapping(value = "", method = RequestMethod.GET)
+	@RequestMapping(method = RequestMethod.GET)
 	@ResponseStatus(HttpStatus.CREATED)
    public List<PlotInfo> getPlotInfos() {
 		logger.info("------------getPlotInfos()------------------");
@@ -38,7 +38,7 @@ public class PlotInfoController {
 	        return plotInfoService.getPlotInfo(id);
 	  }
 	
-	@RequestMapping(value = "", method=RequestMethod.POST)
+	@RequestMapping(method=RequestMethod.POST)
 	@ResponseStatus(HttpStatus.CREATED)
 	public PlotInfo savePlotInfo(@RequestBody @Valid PlotInfo plotInfo) {    
 		logger.info("------------savePlotInfo()------------------");

@@ -29,6 +29,8 @@ public class PlotInfo {
 	@Frozen
 	List<PlotInfoBillingInfo> plotInfoBillingInfoUDTs=new ArrayList<PlotInfoBillingInfo>();
 	
+	// setter and getter methods
+	
 	public Long getPlId() {
 		return plId;
 	}
