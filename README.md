@@ -14,6 +14,5 @@ Technology & Tools used:
 [<img src="https://img.youtube.com/vi/qT2TIUBFaTk/maxresdefault.jpg" width="100%">](https://youtu.be/lakR6MrjdPo)
 
 ## Google Postman RESTFulAPI Testing
-[<img src="https://img.youtube.com/vi/hSAiFjOuzMg
-/maxresdefault.jpg" width="100%">](https://youtu.be/lakR6MrjdPo)
+[<img src="https://img.youtube.com/vi/hSAiFjOuzMg&list=PL61PaxtHbYMqa44dc47jrYtPXrd-YGFBi/maxresdefault.jpg" width="100%">](https://youtu.be/lakR6MrjdPo)
 
